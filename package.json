@@ -1,5 +1,5 @@
 {
-  "name": "fis3-prepackager-spring-i18n",
+  "name": "fis3-prepackager-spring-mock",
   "version": "0.0.1",
   "description": "fis3 prepackager spring i18n",
   "main": "index.js",
