@@ -17,6 +17,6 @@
   "author": "Je",
   "license": "BSD",
   "dependencies": {
-    "sync-request":"^6.0.0"
+    "sync-request":"^1.0.0"
   }
 }
